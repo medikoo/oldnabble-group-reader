@@ -18,9 +18,6 @@
   "optionalDependencies": {
     "nodemailer": "0.6.x"
   },
-  "engines": {
-    "node": "*"
-  },
   "scripts": {
     "start": "node ./lib/server/server.js"
   }
