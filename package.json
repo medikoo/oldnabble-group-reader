@@ -10,8 +10,8 @@
     "domjs": "^0.3.2",
     "feedparser": "^2.2.7",
     "memoizee": "^0.4.11",
-    "request": "~2.34",
-    "st": "~0.4.1",
+    "request": "^2.83",
+    "st": "^1.2.2",
     "socket.io": "^1.7.3",
     "webmake": "~0.3.28"
   },
