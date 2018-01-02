@@ -3,15 +3,6 @@
     "browser": true
   },
   "globals": {
-    "io": true,
-    "_text": true,
-    "a": true,
-    "div": true,
-    "h3": true,
-    "input": true,
-    "li": true,
-    "p": true,
-    "section": true,
-    "ul": true
+    "io": true
   }
 }
