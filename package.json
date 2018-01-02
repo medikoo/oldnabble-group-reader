@@ -25,6 +25,12 @@
 	"eslintConfig": {
 		"extends": "medikoo",
 		"root": true,
+		"rules": {
+			"no-console": "off"
+    },
+    "env": {
+      "shared-node-browser": true
+    },
 		"parserOptions": {
 			"ecmaVersion": 2017
 		}
