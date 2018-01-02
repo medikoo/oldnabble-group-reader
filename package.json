@@ -4,8 +4,8 @@
   "description": "Reader for any old.nabble group",
   "version": "0.1.0",
   "dependencies": {
-    "es5-ext": "~0.10.37",
-    "event-emitter": "~0.2.2",
+    "es5-ext": "^0.10.37",
+    "event-emitter": "^0.3.5",
     "deferred": "^0.7.6",
     "domjs": "~0.2.3",
     "feedparser": "~0.16.6",
