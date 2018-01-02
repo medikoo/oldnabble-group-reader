@@ -9,7 +9,7 @@
     "deferred": "^0.7.9",
     "domjs": "^0.3.2",
     "feedparser": "^2.2.7",
-    "memoizee": "~0.2.6",
+    "memoizee": "^0.4.11",
     "request": "~2.34",
     "st": "~0.4.1",
     "socket.io": "^1.7.3",
