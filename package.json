@@ -13,10 +13,10 @@
     "request": "^2.83",
     "st": "^1.2.2",
     "socket.io": "^2.0.4",
-    "webmake": "~0.3.28"
+    "webmake": "^0.3.43"
   },
   "optionalDependencies": {
-    "nodemailer": "^1.3.4"
+    "nodemailer": "^4.4.1"
   },
   "devDependencies": {
     "eslint": "^4.14",
