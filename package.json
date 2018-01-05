@@ -4,15 +4,15 @@
   "description": "Reader for any old.nabble group",
   "version": "0.1.0",
   "dependencies": {
-    "es5-ext": "^0.10.37",
-    "event-emitter": "^0.3.5",
     "deferred": "^0.7.9",
     "domjs": "^0.3.2",
+    "es5-ext": "^0.10.37",
+    "event-emitter": "^0.3.5",
     "feedparser": "^2.2.7",
     "memoizee": "^0.4.11",
     "request": "^2.83",
-    "st": "^1.2.2",
     "socket.io": "^2.0.4",
+    "st": "^1.2.2",
     "webmake": "^0.3.43"
   },
   "optionalDependencies": {
